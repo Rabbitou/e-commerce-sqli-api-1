@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "category_name": "SWEATERS"
+  },
+  {
+    "id": 2,
+    "category_name": "T-SHIRTS"
+  },
+  {
+    "id": 3,
+    "category_name": "JEANS"
+  },
+  {
+    "id": 4,
+    "category_name": "SHORTS"
+  },
+  {
+    "id": 5,
+    "category_name": "SWEATSHIRTS"
+  },
+  {
+    "id": 6,
+    "category_name": "SHIRTS"
+  },
+  {
+    "id": 7,
+    "category_name": "JACKETS"
+  },
+  {
+    "id": 8,
+    "category_name": "POLO SHIRTS"
+  },
+  {
+    "id": 9,
+    "category_name": "FOOTWEAR"
+  },
+  {
+    "id": 10,
+    "category_name": "CLOTHING"
+  },
+  {
+    "id": 11,
+    "category_name": "ACCESSORIES"
+  },
+  {
+    "id": 12,
+    "category_name": "BAGS"
+  },
+  {
+    "id": 13,
+    "category_name": "SUITS"
+  },
+  {
+    "id": 14,
+    "category_name": "NEW"
+  }
+]
